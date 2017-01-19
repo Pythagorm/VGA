@@ -13,7 +13,7 @@ Jonah for moral support
 <p>
 Video game addiction can be very serious if left unadressed. This website will be your first stop to stopping video game addiction.
 </p>
-<button type = "button">Are you addicted to video games?</button>
+
 </font>
 <h1>
 General Information
@@ -74,5 +74,13 @@ In Vietnam a thirteen year old boy strangled a woman and buried her in a pile of
 
 
 </div>
-
+<h3>
+<div align = "center>
+Quiz
+</div>
+</h3>
+<p>
+How many hours per day do you play?
+<input type = "text"></input>
+</p>
 </head>
