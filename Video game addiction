@@ -79,7 +79,7 @@ Quiz
 <p>
 How many hours a day do you play?
 </p>
-<input type = "radio" value = 1 id = ZERO onClick='killStuff();'>Zero Hours
+<input type = "radio" value = 1 id = ZERO onClick='killStuff()';/>Zero Hours
 <input type = "radio" value = 2> One Hours
 <input type = "radio" value = 3> Two Hours
 <input type = "radio" value = 4 > Four Hours
