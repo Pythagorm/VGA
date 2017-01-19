@@ -73,8 +73,12 @@ In Vietnam a thirteen year old boy strangled a woman and buried her in a pile of
 <h1>
 <div align = "center">
 Quiz
-
+</div>
 </h1>
+<div align = "center">
+<p>
+How many hours a day do you play?
+</p>
 <input type = "radio" value = 1>Zero Hours
 <input type = "radio" value = 2> One Hours
 <input type = "radio" value = 3> Two Hours
