@@ -76,9 +76,9 @@ Quiz
 </div>
 </h1>
 
-<div align = "center" display : inline >
+<div align = "left" >
 <p class="question">1. How many hours of video games do you play?</p>
-<ul class="answers" display = "block">
+<ul class="answers">
 <input type="radio" name="q1" value="1" id="q1c"><label for="q1c">0 Hours</label><br/>
 <input type="radio" name="q1" value="2" id="q1a"><label for="q1a">1 Hour</label><br/>
 <input type="radio" name="q1" value="3" id="q1b"><label for="q1b">2 Hours</label><br/>
@@ -86,11 +86,18 @@ Quiz
 <input type="radio" name="q1" value="5" id="q1d"><label for="q1d">4 Or More Hours</label><br/>
 </ul>
 <p class="question">2. How irritated do you get if not allowed to play?</p>
-<ul class="answers2" display : inline>
+<ul class="answers2">
 <input type="radio" name="q2" value="1" id="q2c"><label for="q2c">Not Irritated</label><br/>
 <input type="radio" name="q2" value="2" id="q2a"><label for="q2a">Partially Irritated</label><br/>
 <input type="radio" name="q2" value="4" id="q2b"><label for="q2b">Really Irritated</label><br/>
 <input type="radio" name="q2" value="5" id="q2c"><label for="q2c">Deadly Irritated</label><br/>
+</ul>
+<p class="question">2. How much money do you spend on video games monthly?</p>
+<ul class="answers3">
+<input type="radio" name="q3" value="1" id="q3c"><label for="q3c">$0</label><br/>
+<input type="radio" name="q3" value="2" id="q3a"><label for="q3a">$10</label><br/>
+<input type="radio" name="q3" value="4" id="q3b"><label for="q3b">$20</label><br/>
+<input type="radio" name="q3" value="5" id="q3c"><label for="q3c">$50+</label><br/>
 </ul>
 </div>
 </font>
