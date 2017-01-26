@@ -76,7 +76,7 @@ Quiz
 </div>
 </h1>
 
-<div align = "center" >
+<div align = "center" display : inline >
 <p class="question">1. How many hours of video games do you play?</p>
 <ul class="answers" display = "block">
 <input type="radio" name="q1" value="1" id="q1c"><label for="q1c">0 Hours</label><br/>
@@ -86,7 +86,7 @@ Quiz
 <input type="radio" name="q1" value="5" id="q1d"><label for="q1d">4 Or More Hours</label><br/>
 </ul>
 <p class="question">2. How irritated do you get if not allowed to play?</p>
-<ul class="answers2">
+<ul class="answers2" display : inline>
 <input type="radio" name="q2" value="1" id="q2c"><label for="q2c">Not Irritated</label><br/>
 <input type="radio" name="q2" value="2" id="q2a"><label for="q2a">Partially Irritated</label><br/>
 <input type="radio" name="q2" value="4" id="q2b"><label for="q2b">Really Irritated</label><br/>
