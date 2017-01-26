@@ -87,10 +87,10 @@ Quiz
 </ul>
 <p class="question">How irritated do you get if not allowed to play?</p>
 <ul class="answers2">
-<input type="radio" name="q1" value="1" id="q1c"><label for="q1c">Not Irritated</label><br/>
-<input type="radio" name="q1" value="2" id="q1a"><label for="q1a">Partially Irritated</label><br/>
-<input type="radio" name="q1" value="4" id="q1b"><label for="q1b">Really Irritated</label><br/>
-<input type="radio" name="q1" value="5" id="q1c"><label for="q1c">Deadly Irritated</label><br/>
+<input type="radio" name="q2" value="1" id="q2c"><label for="q2c">Not Irritated</label><br/>
+<input type="radio" name="q2" value="2" id="q2a"><label for="q2a">Partially Irritated</label><br/>
+<input type="radio" name="q2" value="4" id="q2b"><label for="q2b">Really Irritated</label><br/>
+<input type="radio" name="q2" value="5" id="q2c"><label for="q2c">Deadly Irritated</label><br/>
 </ul>
 </font>
 
