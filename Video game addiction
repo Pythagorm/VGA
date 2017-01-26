@@ -86,7 +86,7 @@ Quiz
 <input type="radio" name="q1" value="5" id="q1d"><label for="q1d">4 Or More Hours</label><br/>
 </ul>
 <p class="question">How irritated do you get if not allowed to play?</p>
-<ul class="answers">
+<ul class="answers2">
 <input type="radio" name="q1" value="1" id="q1c"><label for="q1c">Not Irritated</label><br/>
 <input type="radio" name="q1" value="2" id="q1a"><label for="q1a">Partially Irritated</label><br/>
 <input type="radio" name="q1" value="4" id="q1b"><label for="q1b">Really Irritated</label><br/>
