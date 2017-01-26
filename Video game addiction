@@ -105,10 +105,7 @@ Show Results
 </div>
 </font>
 <script>
-total = value + valu + val
-<p>
-total
-</p>
+document.write(value + valu + val)
 </script>
 
 </div>
