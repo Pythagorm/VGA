@@ -87,18 +87,21 @@ Quiz
 </ul>
 <p class="question">2. How irritated do you get if not allowed to play?</p>
 <ul class="answers2">
-<input type="radio" name="q2" value="1" id="q2c"><label for="q2c">Not Irritated</label><br/>
-<input type="radio" name="q2" value="2" id="q2a"><label for="q2a">Partially Irritated</label><br/>
-<input type="radio" name="q2" value="4" id="q2b"><label for="q2b">Really Irritated</label><br/>
-<input type="radio" name="q2" value="5" id="q2c"><label for="q2c">Deadly Irritated</label><br/>
+<input type="radio" name="q2" valu="1" id="q2c"><label for="q2c">Not Irritated</label><br/>
+<input type="radio" name="q2" valu="2" id="q2a"><label for="q2a">Partially Irritated</label><br/>
+<input type="radio" name="q2" valu="4" id="q2b"><label for="q2b">Really Irritated</label><br/>
+<input type="radio" name="q2" valu="5" id="q2c"><label for="q2c">Deadly Irritated</label><br/>
 </ul>
-<p class="question">2. How much money do you spend on video games monthly?</p>
+<p class="question">3. How much money do you spend on video games monthly?</p>
 <ul class="answers3">
-<input type="radio" name="q3" value="1" id="q3c"><label for="q3c">$0</label><br/>
-<input type="radio" name="q3" value="2" id="q3a"><label for="q3a">$10</label><br/>
-<input type="radio" name="q3" value="4" id="q3b"><label for="q3b">$20</label><br/>
-<input type="radio" name="q3" value="5" id="q3c"><label for="q3c">$50+</label><br/>
+<input type="radio" name="q3" val="1" id="q3c"><label for="q3c">$0</label><br/>
+<input type="radio" name="q3" val="2" id="q3a"><label for="q3a">$10</label><br/>
+<input type="radio" name="q3" val="4" id="q3b"><label for="q3b">$20</label><br/>
+<input type="radio" name="q3" val="5" id="q3c"><label for="q3c">$50+</label><br/>
 </ul>
+<div id = "results">
+Show Results
+</div>
 </div>
 </font>
 
