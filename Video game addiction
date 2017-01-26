@@ -104,7 +104,12 @@ Show Results
 </div>
 </div>
 </font>
-
+<script>
+total = value + valu + val
+<p>
+total
+</p>
+</script>
 
 </div>
 
