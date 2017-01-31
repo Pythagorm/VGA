@@ -105,7 +105,9 @@ Show Results
 </div>
 </font>
 <script>
+<p>
 document.write(value + valu + val)
+</p>
 </script>
 
 </div>
